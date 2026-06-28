@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Mateo Agatić 👋
 
-<!--
-**mateoagatic/mateoagatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Croatia with a strong interest in Quality Assurance and Software Development.
 
-Here are some ideas to get you started:
+I'm currently building practical software projects, expanding my knowledge through university and personal learning, and looking for my first opportunity in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+**Polytechnic of Rijeka**
+
+Professional Undergraduate Study in Computer Science
+
+Expected graduation: 2027
+
+---
+
+## 💻 Technologies
+
+- Java
+- Python
+- SQL
+- Git
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+---
+
+## 🚀 Currently Working On
+
+- Building real-world software projects
+- Learning software testing and Quality Assurance
+- Expanding Java and SQL knowledge
+- Developing my GitHub portfolio
+
+---
+
+## 📂 Featured Projects
+
+Projects will be added here as they are completed.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/mateoagatic
+- Email: mateoagati@icloud.com
